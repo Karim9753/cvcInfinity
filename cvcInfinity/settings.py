@@ -1,3 +1,4 @@
+# Mon premier commit sur une feature branch
 """
 Django settings for cvcInfinity project.
 
