@@ -1,5 +1,3 @@
-# Test rebase
-# Mon premier commit sur une feature branch
 """
 Django settings for cvcInfinity project.
 
@@ -40,6 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'rest_framework',
+    'projects',
 ]
 
 MIDDLEWARE = [
